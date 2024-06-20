@@ -16,12 +16,28 @@ Bem-vindo ao meu repositório! Aqui, registro minhas anotações e códigos de f
 Diferente do meu repositório anterior, aqui meus estudos estarão divididos em dias, e não em semanas. Quero explorar o curso ao máximo e ter a liberdade de registrar os detalhes diários do meu aprendizado. <br><br>
 Minha meta é concluir essa formação em um mês. O curso tem 50 horas, e acredito que essa estrutura de registros diários me ajudará a manter a motivação, permitindo-me revisar facilmente tudo o que eu vier a aprender durante essa jornada.
 
+
+## Principais Tópicos:
+- Fundamentos
+
+- Aprofundando em Hooks
+
+- HTTP e Performance
+
+- Integrando Frontend - Backend
+
+- Primeiro framework
+
+- Design System
+
+- Aprofundando em Next.js
+
 <br><img src="./.github/assets/gradient-bar.svg" width="100%" height="8px"/>
 
-### [Semana 1](web-and-computer-programming/README.md) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left%20Medium-Dark%20Skin%20Tone.png" alt="Backhand Index Pointing Left Medium-Dark Skin Tone" width="25" height="25" />
+### Semana 1
 <details>
-    <summary><b>Meu resumo diário</b></summary><br>
-    - Dia 1<br>
+    <summary><b>Meu resumo diário <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left%20Medium-Dark%20Skin%20Tone.png" alt="Backhand Index Pointing Left Medium-Dark Skin Tone" width="25" height="25" /></b></summary><br>
+    - <a src="https://github.com/Raphael-GC/react-rocketseat/blob/main/semana_1/dia_1.md">Dia 1</a><br>
     - <br>
     - <br>
     - <br>
