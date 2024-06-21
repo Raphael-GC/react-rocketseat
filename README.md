@@ -37,8 +37,8 @@ Minha meta é concluir essa formação em um mês. O curso tem 50 horas, e acred
 ### Semana 1
 <details>
     <summary><b>Meu resumo diário <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left%20Medium-Dark%20Skin%20Tone.png" alt="Backhand Index Pointing Left Medium-Dark Skin Tone" width="25" height="25" /></b></summary><br>
-    - <a src="https://github.com/Raphael-GC/react-rocketseat/blob/main/semana_1/dia_1.md">Dia 1</a><br>
-    - <br>
+        <a src="https://github.com/Raphael-GC/react-rocketseat/blob/main/semana_1/dia_1.md">Dia 1</a><br>
+        <a src="https://github.com/Raphael-GC/react-rocketseat/blob/main/semana_1/dia_2.md">Dia 2</a><br>
     - <br>
     - <br>
     - <br>

@@ -7,6 +7,9 @@
 
 <ul>Portanto, a DOM é essencialmente a representação da estrutura HTML que pode ser manipulada usando JavaScript, mas não organiza ou renderiza diretamente os scripts JavaScript.</ul>
 <br>
+
+---
+
 <b> Fluxo de Renderização </b>
 <ul>Complementando o que eu havia falado ontem sobre o fato de os navegadores até pouco tempo atrás não permitirem que um scipt invocasse outro, sendo necessário recorrer a ferramentas chamadas de Bundlers. Eu até então não havia entendido o porquê de haver apenas as metatags e um tal de root nos arquivos index.html e todo o conteúdo das SPAs está sendo escrito dentro de outro arquivo com um tipo esquisito (.jsx) que mais parece uma mistura de html com js. Mas agora tudo foi esclarecido na minha mente. </ul>
 
