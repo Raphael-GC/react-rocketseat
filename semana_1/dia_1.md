@@ -4,8 +4,8 @@
 
 <b>👀 read later </b><br>
 <ul>
-    <a src="https://largeapps.dev/">Large Apps</a><br>
-    <a src="https://www.patterns.dev/#patterns">Patterns</a>
+    [Large Apps](https://largeapps.dev/) <br>
+    [Patterns](https://www.patterns.dev/#patterns) <br>
 </ul>
 
 <b> Bundlers & Compilers </b>
@@ -14,9 +14,9 @@
 
 <b>👀 read later </b><br>
 <ul>
-    <a src="https://babeljs.io/docs/">Ex. Compiler: Babel</a><br>
-    <a src="https://webpack.js.org/">Ex. Bundler: Webpack</a><br>
-    <a src="https://vitejs.dev/">Ex. Bundler(ES6)+Compiler: Vite ✨</a><br>
+    [Ex. Compiler: Babel](https://babeljs.io/docs/) <br>
+    [Ex. Bundler: Webpack](https://webpack.js.org/) <br>
+    [Ex. Bundler(ES6)+Compiler: Vite ✨](https://vitejs.dev/) <br>
 
 <br>
 <img src="./../.github/assets/gradient-bar.svg" width="100%" height="8px"/>
