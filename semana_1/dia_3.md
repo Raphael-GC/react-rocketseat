@@ -4,9 +4,9 @@
 
 <p align="center">
   <a href="#jsx---javascript--xml">JSX - (Javascript + XML)</a> •
-  <a href="#componentes-aninhados">Componentes Aninhados</a>
-  <a href="#default-exports-vs-named-exports">Default Exports vs Named Exports</a><br>
-  <a href="#properties-ou-props">Properties ou Props</a><br>
+  <a href="#componentes-aninhados">Componentes Aninhados</a> •
+  <a href="#default-exports-vs-named-exports">Default Exports vs Named Exports</a><br> •
+  <a href="#properties-ou-props">Properties ou Props</a><br> •
   <a href="#css-modules">CSS Modules</a><br>
 </p>
 
