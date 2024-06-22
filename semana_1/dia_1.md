@@ -1,5 +1,14 @@
 
-<b>Rendering Patterns</b>
+<div align="center">
+    <h1>Dia 1</h1>
+</div>
+
+<p align="center">
+  <a href="#rendering-patterns">Rendering Patterns</a> •
+  <a href="#bundlers--compilers">Bundlers & Compilers</a>
+</p>
+
+## Rendering Patterns
 <ul>São estratégias que ajudam a estruturar e organizar a renderização de componentes de maneira eficiente e reutilizável. Alguns exemplos seriam: SSR, SPA, ISG, PH, etc...</ul>
 
 <b>👀 read later </b><br>
@@ -10,7 +19,7 @@
 ---
 
 
-<b> Bundlers & Compilers </b>
+## Bundlers & Compilers
 <ul>Devido ao fato de os navegadores não suportarem que um script invoque outro (padrão da maioria das aplicações atuais que são dividas em vários arquivos e vão sendo importados um pelos outros e compondo as funcionalidades), se faz necessário que todos os arquivos da aplicação sejam reunidos em apenas um que será lido/acessado através da tag HTML <'script'>. O responsável por isso é o Bundler. Entretanto, recentemente, essa situação passou a se tornar passado, e hoje em dia a maioria dos navegadores passou a suportar nativamente os ECMAScripts </ul>
 <ul>Já os Compilers, são uma garantia para que todos os navegadores interpretem o nosso código mesmo em versões mais recentes, pois há certas atualizações de funcionalidades que demoram para ser compatível com alguns navegadores.</ul>
 

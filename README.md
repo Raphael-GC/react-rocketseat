@@ -48,77 +48,104 @@ Minha meta é concluir essa formação em um mês. O curso tem 50 horas, e acred
         <a href="https://github.com/Raphael-GC/react-rocketseat/blob/main/semana_1/dia_1.md">Dia 1</a><br>
         <a href="https://github.com/Raphael-GC/react-rocketseat/blob/main/semana_1/dia_2.md">Dia 2</a><br>
         <a href="https://github.com/Raphael-GC/react-rocketseat/blob/main/semana_1/dia_3.md">Dia 3</a><br>
-    - <br>
-    - <br>
-    - <br><br>
+        <a href="https://github.com/Raphael-GC/react-rocketseat/blob/main/semana_1/dia_4.md">Dia 4</a><br>
+        <a href="">Dia 5</a><br>
+        <a href="">Dia 6</a><br>
+        <a href="">Dia 7</a><br>
 </details>
 
 <details>
-    <summary><b>Assuntos abordados</b></summary>      
-    - <br>
-    - <br>
-    - <br>
-    - <br>
-    - <br>       
+    <summary><b>Tópicos</b></summary>      
+        <a href="semana_1\dia_1.md\#rendering-patterns">Rendering Patterns</a><br>
+        <a href="semana_1\dia_1.md\#bundlers--compilers">Bundlers & Compilers</a><br>
+        <a href="semana_1\dia_2.md\#dom---document-object-model">DOM - (Document Object Model)</a><br>
+        <a href="semana_1\dia_2.md\#fluxo-de-renderização">Fluxo de Renderização</a><br>
+        <a href="semana_1\dia_3.md\#jsx---javascript--xml">JSX - (Javascript + XML)</a><br>
+        <a href="semana_1\dia_3.md\#componentes-aninhados">Componentes Aninhados</a><br>
+        <a href="semana_1\dia_3.md\#default-exports-vs-named-exports">Default Exports vs Named Exports</a><br>
+        <a href="semana_1\dia_3.md\#properties-ou-props">Properties ou Props</a><br>
+        <a href="semana_1\dia_3.md\#css-modules">CSS Modules</a><br>
+        <a href=""></a><br>
+        <a href=""></a><br>
+        <a href=""></a><br>
+        <a href=""></a><br>    
 </details>
 
 
 ### Semana 2
 <details>
     <summary><b>Meu resumo diário</b></summary><br>
-    - <br>
-    - <br>
-    - <br>
-    - <br>
-    - <br>
-    - <br><br>
+        <a href="">Dia 1</a><br>
+        <a href="">Dia 2</a><br>
+        <a href="">Dia 3</a><br>
+        <a href="">Dia 4</a><br>
+        <a href="">Dia 5</a><br>
+        <a href="">Dia 6</a><br>
+        <a href="">Dia 7</a><br>
 </details>    
 <details>
-    <summary><b>Assuntos abordados</b></summary>      
-    - <br>
-    - <br>
-    - <br>
-    - <br>
-    - <br>       
+    <summary><b>Tópicos</b></summary>      
+        <a href=""></a><br>
+        <a href=""></a><br>
+        <a href=""></a><br>
+        <a href=""></a><br>
+        <a href=""></a><br>
+        <a href=""></a><br>
+        <a href=""></a><br>
+        <a href=""></a><br>
+        <a href=""></a><br>
+        <a href=""></a><br>
 </details>
 
 
 ### Semana 3
 <details>
     <summary><b>Meu resumo diário</b></summary><br>
-    - <br>
-    - <br>
-    - <br>
-    - <br>
-    - <br>
-    - <br><br>
+        <a href="">Dia 1</a><br>
+        <a href="">Dia 2</a><br>
+        <a href="">Dia 3</a><br>
+        <a href="">Dia 4</a><br>
+        <a href="">Dia 5</a><br>
+        <a href="">Dia 6</a><br>
+        <a href="">Dia 7</a><br>
 </details>    
 <details>
-    <summary><b>Assuntos abordados</b></summary>      
-    - <br>
-    - <br>
-    - <br>
-    - <br>
-    - <br>       
+    <summary><b>Tópicos</b></summary>      
+        <a href=""></a><br>
+        <a href=""></a><br>
+        <a href=""></a><br>
+        <a href=""></a><br>
+        <a href=""></a><br>
+        <a href=""></a><br>
+        <a href=""></a><br>
+        <a href=""></a><br>
+        <a href=""></a><br>
+        <a href=""></a><br>     
 </details>
 
 ### Semana 4
 <details>
     <summary><b>Meu resumo diário</b></summary><br>
-    - <br>
-    - <br>
-    - <br>
-    - <br>
-    - <br>
-    - <br><br>
+        <a href="">Dia 1</a><br>
+        <a href="">Dia 2</a><br>
+        <a href="">Dia 3</a><br>
+        <a href="">Dia 4</a><br>
+        <a href="">Dia 5</a><br>
+        <a href="">Dia 6</a><br>
+        <a href="">Dia 7</a><br>
 </details>    
 <details>
-    <summary><b>Assuntos abordados</b></summary>      
-    - <br>
-    - <br>
-    - <br>
-    - <br>
-    - <br>       
+    <summary><b>Tópicos</b></summary>      
+        <a href=""></a><br>
+        <a href=""></a><br>
+        <a href=""></a><br>
+        <a href=""></a><br>
+        <a href=""></a><br>
+        <a href=""></a><br>
+        <a href=""></a><br>
+        <a href=""></a><br>
+        <a href=""></a><br>
+        <a href=""></a><br>     
 </details>
 
 <br>

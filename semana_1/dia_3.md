@@ -1,4 +1,16 @@
-<b>JSX - (Javascript + XML)</b>
+<div align="center">
+    <h1>Dia 3</h1>
+</div>
+
+<p align="center">
+  <a href="#jsx---javascript--xml">JSX - (Javascript + XML)</a> •
+  <a href="#componentes-aninhados">Componentes Aninhados</a>
+  <a href="#default-exports-vs-named-exports">Default Exports vs Named Exports</a><br>
+  <a href="#properties-ou-props">Properties ou Props</a><br>
+  <a href="#css-modules">CSS Modules</a><br>
+</p>
+
+## JSX - (Javascript + XML)
 <ul>É a linguagem que utilizamos para escrever nossos componentes. Ou quando usamos Typescript ao invés de JS, chamamos de .tsx, ainda seguindo a mesma lógixa de que parece uma mistura com XML. E aí, mas o que é XML? Ninguém pediu mas tá aqui a diferença:</ul>
 <ul><b>- Propósito:</b>
         
@@ -17,12 +29,12 @@
     
 ---
 
-<b>Componentes Aninhados</b>
+## Componentes Aninhados
 <ul>No React não podemos retornar vários componentes repetidos ou idependentes, um abaixo do outro sem que estejam envoltos por outro elemento, como uma div, por exemplo. Ocorrerá um erro na renderização caso não aninhemos esses componentes.</ul>
 
 ---
 
-<b>Default Exports vs Named Exports</b>
+## Default Exports vs Named Exports
 <ul>Basicamente, no Named Exports você é obrigado a utilizar o mesmo nome dado a função na hora em que exportou quando for importá-la. Ou seja, desta forma evita-se que após alguma alteração no nome do componente ou da função você esqueça de manter a conformidade/padronização e legibilidade do código. Abaixo exemplos de exports em ambos os padrões.</ul>
 <ul><b>- Default Exports:</b>
     
@@ -63,7 +75,7 @@
 
 ---
 
-<b>Properties ou Props</b>
+## Properties ou Props
 <ul>São argumentos passados para componentes para transmitir dados. Elas permitem que os componentes sejam reutilizáveis e personalizáveis, funcionando como parâmetros de uma função.</ul>
 <ul>Ou seja, podemos reaproveitar a estilização e funcionalidades daquele componente, mas injetando/exibindo um conteúdo (texto, valores, imagens, etc.) personalizado para cada um.</ul>
 
@@ -77,7 +89,7 @@
 
 ---
 
-<b>CSS Modules</b>
+## CSS Modules
 <ul>São arquivos CSS cujo escopo é limitado ao componente que os importa, evitando conflitos de nomes de classes e estilos globais.</ul>
 
 <b>👀 read later </b><br>
