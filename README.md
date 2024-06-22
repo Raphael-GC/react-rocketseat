@@ -56,19 +56,19 @@ Minha meta é concluir essa formação em um mês. O curso tem 50 horas, e acred
 
 <details>
     <summary><b>Tópicos</b></summary>      
-        <a href="semana_1\dia_1.md\#rendering-patterns">Rendering Patterns</a><br>
-        <a href="semana_1\dia_1.md\#bundlers--compilers">Bundlers & Compilers</a><br>
-        <a href="semana_1\dia_2.md\#dom---document-object-model">DOM - (Document Object Model)</a><br>
-        <a href="semana_1\dia_2.md\#fluxo-de-renderização">Fluxo de Renderização</a><br>
-        <a href="semana_1\dia_3.md\#jsx---javascript--xml">JSX - (Javascript + XML)</a><br>
-        <a href="semana_1\dia_3.md\#componentes-aninhados">Componentes Aninhados</a><br>
-        <a href="semana_1\dia_3.md\#default-exports-vs-named-exports">Default Exports vs Named Exports</a><br>
-        <a href="semana_1\dia_3.md\#properties-ou-props">Properties ou Props</a><br>
-        <a href="semana_1\dia_3.md\#css-modules">CSS Modules</a><br>
-        <a href=""></a><br>
-        <a href=""></a><br>
-        <a href=""></a><br>
-        <a href=""></a><br>    
+        - <a href="semana_1\dia_1.md\#rendering-patterns">Rendering Patterns</a><br>
+        - <a href="semana_1\dia_1.md\#bundlers--compilers">Bundlers & Compilers</a><br>
+        - <a href="semana_1\dia_2.md\#dom---document-object-model">DOM - (Document Object Model)</a><br>
+        - <a href="semana_1\dia_2.md\#fluxo-de-renderização">Fluxo de Renderização</a><br>
+        - <a href="semana_1\dia_3.md\#jsx---javascript--xml">JSX - (Javascript + XML)</a><br>
+        - <a href="semana_1\dia_3.md\#componentes-aninhados">Componentes Aninhados</a><br>
+        - <a href="semana_1\dia_3.md\#default-exports-vs-named-exports">Default Exports vs Named Exports</a><br>
+        - <a href="semana_1\dia_3.md\#properties-ou-props">Properties ou Props</a><br>
+        - <a href="semana_1\dia_3.md\#css-modules">CSS Modules</a><br>
+        - <a href=""></a><br>
+        - <a href=""></a><br>
+        - <a href=""></a><br>
+        - <a href=""></a><br>    
 </details>
 
 
