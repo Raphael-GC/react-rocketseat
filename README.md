@@ -49,7 +49,7 @@ Minha meta é concluir essa formação em um mês. O curso tem 50 horas, e acred
         <a href="https://github.com/Raphael-GC/react-rocketseat/blob/main/semana_1/dia_2.md">Dia 2</a><br>
         <a href="https://github.com/Raphael-GC/react-rocketseat/blob/main/semana_1/dia_3.md">Dia 3</a><br>
         <a href="https://github.com/Raphael-GC/react-rocketseat/blob/main/semana_1/dia_4.md">Dia 4</a><br>
-        <a href="">Dia 5</a><br>
+        <a href="https://github.com/Raphael-GC/react-rocketseat/blob/main/semana_1/dia_5.md">Dia 5</a><br>
         <a href="">Dia 6</a><br>
         <a href="">Dia 7</a><br>
 </details>
@@ -65,10 +65,20 @@ Minha meta é concluir essa formação em um mês. O curso tem 50 horas, e acred
         - <a href="semana_1\dia_3.md\#default-exports-vs-named-exports">Default Exports vs Named Exports</a><br>
         - <a href="semana_1\dia_3.md\#properties-ou-props">Properties ou Props</a><br>
         - <a href="semana_1\dia_3.md\#css-modules">CSS Modules</a><br>
+        - <a href="semana_1\dia_4.md\#phosphor-icons"></a><br>
+        - <a href="semana_1\dia_4.md\#home--end"></a><br>
+        - <a href="semana_1\dia_4.md\#post--post-"></a><br>
+        - <a href="semana_1\dia_4.md\#camel-case-html-vs-react"></a><br>
+        - <a href="semana_1\dia_5.md\"></a><br>
+        - <a href="semana_1\dia_5.md\flex-1-expansão-de-domínio"></a><br>  
         - <a href=""></a><br>
+        - <a href=""></a><br>  
         - <a href=""></a><br>
+        - <a href=""></a><br>  
         - <a href=""></a><br>
-        - <a href=""></a><br>    
+        - <a href=""></a><br>  
+        - <a href=""></a><br>
+        - <a href=""></a><br>      
 </details>
 
 
